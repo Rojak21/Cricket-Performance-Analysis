@@ -21,6 +21,9 @@ The Batting page allows users to select an Indian player using a **dropdown slic
 
 The card visuals dynamically update based on the selected player.
 <a href="https://github.com/Rojak21/Cricket-Performance-Analysis/blob/main/Batting.png"/>
+<img src="https://github.com/Rojak21/Cricket-Performance-Analysis/blob/main/Batting.png" alt="Batting">
+
+
 
 ### 🎯 Bowling Analysis
 

@@ -20,7 +20,7 @@ The Batting page allows users to select an Indian player using a **dropdown slic
 * Batting Average
 
 The card visuals dynamically update based on the selected player.
-<a href="https://github.com/Rojak21/Cricket-Performance-Analysis/blob/main/Batting.png"/>
+<!-- <a href="https://github.com/Rojak21/Cricket-Performance-Analysis/blob/main/Batting.png"/> -->
 <img src="https://github.com/Rojak21/Cricket-Performance-Analysis/blob/main/Batting.png" alt="Batting">
 
 
@@ -39,7 +39,8 @@ The Bowling page provides player-level information including:
 * Best Bowling in an Innings
 
 Users can select a player from the slicer and view the corresponding statistics through interactive cards and visuals.
-<a href="https://github.com/Rojak21/Cricket-Performance-Analysis/blob/main/bowling.png"/>
+<!-- <a href="https://github.com/Rojak21/Cricket-Performance-Analysis/blob/main/bowling.png"/> -->
+<img src="https://github.com/Rojak21/Cricket-Performance-Analysis/blob/main/bowling.png" alt="Bowling">
 
 ### 🧤 Fielding Analysis
 
@@ -52,7 +53,8 @@ The Fielding page provides information such as:
 * Stumpings
 
 The player slicer allows users to interactively filter the dashboard and view the selected player's statistics.
-<a href="https://github.com/Rojak21/Cricket-Performance-Analysis/blob/main/fielding.png"/>
+<!-- <a href="https://github.com/Rojak21/Cricket-Performance-Analysis/blob/main/fielding.png"/> -->
+<img src="https://github.com/Rojak21/Cricket-Performance-Analysis/blob/main/fielding.png" alt="Fileding">
 
 ## 🔄 Data Preparation
 
